@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="akira-backend:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="akira-backend.war">
+      <element id="artifact" artifact-name="akira-backend:war exploded" />
+    </root>
+  </artifact>
+</component>
